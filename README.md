@@ -1,0 +1,2 @@
+# SpringSecurityMultiAuthenticator
+Multiple Authentication using Spring Security
